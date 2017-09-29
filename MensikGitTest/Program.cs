@@ -10,7 +10,7 @@ namespace MensikGitTest
     {
         static void Main(string[] args)
         {
-            int a = 15;
+            int a = 150;
         }
     }
 }
