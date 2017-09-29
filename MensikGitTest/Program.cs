@@ -11,6 +11,7 @@ namespace MensikGitTest
         static void Main(string[] args)
         {
             int a = 150;
+            Console.WriteLine("pfusch");
         }
     }
 }
