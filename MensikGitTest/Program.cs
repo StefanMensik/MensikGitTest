@@ -11,6 +11,8 @@ namespace MensikGitTest
         static void Main(string[] args)
         {
             int a = 150;
+            int b = 200;
+            int c = 300;
         }
     }
 }
