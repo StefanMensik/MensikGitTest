@@ -10,6 +10,7 @@ namespace MensikGitTest
     {
         static void Main(string[] args)
         {
+            int a = 15;
         }
     }
 }
